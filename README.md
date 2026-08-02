@@ -69,3 +69,12 @@ response.close();
 
 ![Save Microservice UML Diagram](Save_service_diagrame.png)
 
+## Test Files
+
+The `test` folder contains example files used to demonstrate the Save Service.
+
+save_request.txt:
+Example request sent to the Save Service.
+
+HighCardStats.txt:
+Example output file created after the Save Service processes the request.
