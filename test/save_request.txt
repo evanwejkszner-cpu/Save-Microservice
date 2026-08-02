@@ -1,0 +1,2 @@
+file_name=HighCardStats.txt
+save_data=Wins:55,Losses:45
